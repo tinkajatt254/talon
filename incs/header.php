@@ -74,41 +74,24 @@
                             <div class="mobile-menu clearfix visible-xs visible-sm">
                                 <nav id="mobile_dropdown">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="about.html">ABOUT</a></li>
+                                        <li><a href="#">SERVICES</a>
                                             <ul>
-                                                <li><a href="index.html">Home 01</a></li>
-                                                <li><a href="index-2.html">Home 02</a></li>
-                                                <li><a href="index-3.html">Home 03</a></li>
+                                                <li><a href="#">Exterior Services</a></li>
+                                                <li><a href="#">Interior service</a></li>
+                                                <li><a href="#">Roofing Service</a></li>
+                                                <li><a href="#">Local Law 10/11</a></li>
+                                                <li><a href="#">Water Profing</a></li>
+                                                <li><a href="#">Scaffolding</a></li>
+                                                <li><a href="#">Parapet Wall Construnction</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="about.html">ABOUT</a></li>
                                         <li><a href="#">PROJECTS</a>
                                             <ul>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">pages</a>
-                                            <ul>
-                                                <li><a href="service.html">service</a></li>
-                                                <li><a href="single-service.html">Single service</a></li>
-                                                <li><a href="projects-one.html">projects one</a></li>
-                                                <li><a href="projects-two.html">projects two</a></li>
-                                                <li><a href="projects-three.html">projects three</a></li>
-                                                <li><a href="single-project.html">Single Project</a></li>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
-                                                <li><a href="blog-details.html">blog Details</a></li>
-                                                <li><a href="login-register.html">Log in & Register</a></li>
-                                            </ul>
-                                        </li> 
-                                        <li><a href="blog.html">blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">BLog</a></li>
-                                                <li><a href="blog-one-column.html">blog one column</a></li>
-                                                <li><a href="blog-two-column.html">blog two column</a></li>
+                                                <li><a href="index.php?page=">projects one</a></li>
+                                                <li><a href="index.php?page=">projects two</a></li>
+                                                <li><a href="index.php?page=">projects three</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact.html">contact</a></li>
