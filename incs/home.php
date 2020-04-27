@@ -14,9 +14,8 @@
                         <div class="row">
                             <div class="col-md-12 col-lg-12">
                                 <div class="slider__inner">
-                                    <h4>SCIENCE 1953</h4>
-                                    <h1>WE BUILD THE TRUST</h1>
-                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment</p>
+                                    <h1>Best Buliding Contractors</h1>
+                                    <p>Talon Construction, Best  Building Contractors New York and  Top general contractors NYC is a one of a kind best home remodeler with the passion for Design, Mastership of Skills and Commitment to Craft.</p>
                                     <div class="slider__btn">
                                         <a class="htc__btn" href="contact.html">CONTACT US</a>
                                     </div>
@@ -35,9 +34,9 @@
                         <div class="row">
                             <div class="col-md-12 col-lg-12">
                                 <div class="slider__inner">
-                                    <h4>SCIENCE 1953</h4>
-                                    <h1>WE BUILD THE TRUST</h1>
-                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment</p>
+                                
+                                    <h1>Best Buliding Contractors</h1>
+                                    <p>Talon Construction, Best  Building Contractors New York and  Top general contractors NYC is a one of a kind best home remodeler with the passion for Design, Mastership of Skills and Commitment to Craft.</p>
                                     <div class="slider__btn">
                                         <a class="htc__btn" href="contact.html">CONTACT US</a>
                                     </div>
@@ -64,7 +63,8 @@
                             </div>
                             <div class="offer__details">
                                 <h2><a href="#">TOP RATED</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized</p>
+                                <p>Many building contractors NYC today are simply order takers. And they will slap some siding on your house, or drop a roof on it, pop in some windows or whatever else thing you tell them to do. Then take your hard earned money, and disappear or never to look back.
+At Talon Construction we have the vision, talent and experience to take your home to the next whole new level.</p>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                             </div>
                             <div class="offer__details">
                                 <h2><a href="#">BEST QUALITY</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized</p>
+                                <p>The Talon team believes that the people should be treated the way you want to be treated – so our customer care is unmatched. What’s The proof? More than 80% of our new work comes from people with recommendations and referrals links. Honesty, integrity and pride are cornerstones of our business and we have always make it a priority point for any of our project.</p>
                             </div>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                             </div>
                             <div class="offer__details">
                                 <h2><a href="#">LOW COST</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized</p>
+                                <p>We started Talon Construction 3 years ago but has been in the construction industry for more than 10 years. Our experience, coupled with our seasoned team of professionals, yields more than 30 years of industry expertise and experience. There isn’t a project or problem we haven’t seen and solved and left a satisfied customer.</p>
                             </div>
                         </div>
                     </div>
@@ -103,8 +103,8 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="section__title text-center">
-                            <h2 class="title__line">ABOUT <span class="text--theme">SIMPLY</span></h2>
-                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
+                            <h2 class="title__line">ABOUT <span class="text--theme">Talon</span></h2>
+                            <p>Talon Builders works with qualified and skilled professional engineers and construction professionals to provide you with reliable on-time services.</p>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                         <div class="about foo">
                             <div class="about__inner">
                                 <h2><a href="about.html">OUR STORY</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>Our experience, coupled with our seasoned team of professionals, yields more than 30 years of industry expertise and experience. There isn’t a project or problem we haven’t seen and solved and left a satisfied customer.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -123,7 +123,7 @@
                             </div>
                             <div class="about__inner about__hober__info">
                                 <h2><a href="about.html">OUR STORY</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>Our experience, coupled with our seasoned team of professionals, yields more than 30 years of industry expertise and experience. There isn’t a project or problem we haven’t seen and solved and left a satisfied customer.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -137,7 +137,7 @@
                         <div class="about foo">
                             <div class="about__inner">
                                 <h2><a href="about.html">ABOUT US</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>Talon Construction, top general contractors Nyc is a renovation, remodelling, and best repair company that offers only talent and professional experience to enhance the overall look and feel of your precious home.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -147,7 +147,7 @@
                             </div>
                             <div class="about__inner about__hober__info active">
                                 <h2><a href="about.html">ABOUT US</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>Talon Construction, top general contractors Nyc is a renovation, remodelling, and best repair company that offers only talent and professional experience to enhance the overall look and feel of your precious home.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -161,7 +161,7 @@
                         <div class="about foo">
                             <div class="about__inner">
                                 <h2><a href="about.html">OUR CERTIFICATE</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>We are one of the premier choices for the best roofing companies in New York. We offer a variety of colors and textures to ensure the right selection. Our customers have the opportunity to make a statement through their roofing selection.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -171,7 +171,7 @@
                             </div>
                             <div class="about__inner about__hober__info">
                                 <h2><a href="about.html">OUR CERTIFICATE</a></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled demoralized On the other hand, we denounce with</p>
+                                <p>We are one of the premier choices for the best roofing companies in New York. We offer a variety of colors and textures to ensure the right selection. Our customers have the opportunity to make a statement through their roofing selection.</p>
                                 <div class="about__btn">
                                     <a href="about.html">READ MORE</a>
                                 </div>
@@ -205,7 +205,7 @@
                                 <div class="col-xs-12">
                                     <div class="section__title text-left">
                                         <h2 class="title__line">OUR <span class="text--theme">SERVICES</span></h2>
-                                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble</p>
+                                        <p></p>
                                     </div>
                                 </div>
                             </div>
@@ -281,7 +281,8 @@
                     <div class="col-xs-12">
                         <div class="section__title text-center">
                             <h2 class="title__line">LATEST <span class="text--theme">PROJECTS</span></h2>
-                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
+                            <p>Talon Contraction provides general contracting services for large and small residential and commercial projects.
+New construction and renovations from start to finish including, but not limited to construction management, consultation and design, permit application process.</p>
                         </div>
                     </div>
                 </div>
@@ -387,8 +388,8 @@
                     </div>
                     <div class="col-md-8 col-sm-12 col-xs-12">
                         <div class="htc__callto__action">
-                            <h2># BEST <span class="text--theme">CONSTRUCTION</span> THEME</h2>
-                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble</p>
+                            <h2>Mile <span class="text--theme">Stones</span> Achieved</h2>
+                            <p></p>
                             <div class="htc__call__btn">
                                 <a class="htc__btn" href="#">BUY NOW</a>
                             </div>
