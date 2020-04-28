@@ -645,9 +645,9 @@ New construction and renovations from start to finish including, but not limited
                         <div class="reguest__quote">
                             <div class="section__title text-left">
                                 <h2 class="title__line">REQUEST A <span class="text--theme">QUOTE</span></h2>
-                                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasur</p>
+                                <p>You got questions, and we have the best answers. Just send us a message and one of our talented professional support staff members will contact you and respond within 24 hours, even on weekends and holidays.</p>
                             </div>
-                            <form id="contact-form" action="https://d29u17ylf1ylz9.cloudfront.net/simply-construction/mail-faq.php" method="post">
+                            <form id="contact-form" method="post">
                                 <div class="clint__comment__form">
                                     <div class="single__cl__form">
                                         <input name="name" type="text" placeholder="Name">
