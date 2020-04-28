@@ -42,7 +42,7 @@
                         <div class="htc__mission__container">
                             <div class="single__mission">
                                 <h2>WHAT WE LOVE TO DO</h2>
-                                <p>The team behind TALON Construction has over 3 years of work experience in the building industry. Sigma Construction began as a restoration company in the year 2015. Over the years, the group has undertaken many challenging projects and accumulated skills, know-how and experiences in design and build solutions, project management services, building trades and engineering work.</p>
+                                <p>The team behind TALON Construction has over 3 years of work experience in the building industry. Talon Construction began as a restoration company in the year 2015. Over the years, the group has undertaken many challenging projects and accumulated skills, know-how and experiences in design and build solutions, project management services, building trades and engineering work.</p>
                             </div>
                             <div class="single__mission">
                                 <h2>OUR MISSION</h2>

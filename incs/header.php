@@ -54,13 +54,13 @@
                                         </ul>
                                     </li>
                                 
-                                    <li class="drop"><a href="#">PROJECTS</a>
+                                    <!-- <li class="drop"><a href="#">PROJECTS</a>
                                         <ul class="dropdown">
                                             <li><a href="index.php?page=">projects one</a></li>
                                             <li><a href="index.php?page=">projects two</a></li>
                                             <li><a href="index.php?page=">projects three</a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                     <!-- <li class="drop"><a href="blog.html">BLOG</a>
                                         <ul class="dropdown">
                                             <li><a href="blog.html">BLog</a></li>
@@ -87,13 +87,13 @@
                                                 <li><a href="#">Parapet Wall Construnction</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">PROJECTS</a>
+                                        <!-- <li><a href="#">PROJECTS</a>
                                             <ul>
                                                 <li><a href="index.php?page=">projects one</a></li>
                                                 <li><a href="index.php?page=">projects two</a></li>
                                                 <li><a href="index.php?page=">projects three</a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li><a href="contact.html">contact</a></li>
                                     </ul>
                                 </nav>
@@ -111,4 +111,4 @@
             </div>
             <!-- End Mainmenu Area -->
         </div>
-        <!-- End Header Style -->
+        <!-- End Header Style
