@@ -3,6 +3,9 @@
 
 
 <head>
+
+<script data-ad-client="ca-pub-8185617951407195" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Talon Construction || Best Building Contractors in New York </title>
@@ -34,6 +37,9 @@
 
     <!-- Modernizr JS -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+
+
 </head>
 <body>
 
